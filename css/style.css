@@ -3056,7 +3056,7 @@ ul.minicart .cart-price .new {
 }
 
 .team-bg {
-	background-image: url(../img/bg/third_team_bg.jpg);
+	background-image: url(../img/bg/bg-team.png);
 	background-position: bottom center;
 	background-size: cover;
 	padding: 110px 0 90px;
@@ -3925,7 +3925,7 @@ ul.minicart .cart-price .new {
 
 /* Donation */
 .donation-bg {
-	background-image: url(../img/bg/donation_bg.jpg);
+	background-image: url(../img/bg/benedeta.png);
 	background-position: center;
 	background-size: cover;
 }
@@ -4692,7 +4692,7 @@ ul.minicart .cart-price .new {
 
 /* My match */
 .my-match-bg {
-	background-image: url(../img/bg/my_match_bg.jpg);
+	background-image: url(../img/bg/bg-match.png);
 	background-position: center;
 	background-size: cover;
 	padding-top: 190px;
